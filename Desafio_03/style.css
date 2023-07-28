@@ -1,0 +1,13 @@
+#box-model {
+    margin: 25px;
+    padding: 25px;
+    border: 5px solid #335690;
+    outline: 5px solid #3356;
+    background-color: #224522;
+}
+
+.title-mod {
+    background-color: #000;
+    color: #fff;
+    border: none;
+}
